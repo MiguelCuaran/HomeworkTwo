@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework2</string>
+    <string name="home">User List</string>
+    <string name="update">Update User</string>
+</resources>

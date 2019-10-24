@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/male"
+        android:title="List male user"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/female"
+        android:title="List female user" />
+    <item
+        android:id="@+id/all"
+        android:title="List all users" />
+    <item
+        android:id="@+id/about"
+        android:title="About Me..." />
+    <item
+        android:id="@+id/logout"
+        android:title="Log Out">
+
+    </item>
+
+</menu>
